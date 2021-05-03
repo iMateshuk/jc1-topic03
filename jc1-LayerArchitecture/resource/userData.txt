@@ -1,3 +1,0 @@
-admin:admin:true:true
-asd:asd:true
-qwe:qwe
