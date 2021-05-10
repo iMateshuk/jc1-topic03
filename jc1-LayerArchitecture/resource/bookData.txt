@@ -1,5 +1,0 @@
-Asdr:Asdv:50:false:tells
-asdr:asdv:1000:false:asdt
-zxc:cxz:100:false:tells
-cxz:zxc:101:false:tells
-asd:asd:2:false:фыв
